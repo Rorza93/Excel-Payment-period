@@ -1,0 +1,1 @@
+used to determine if a bill for a payment period is due from 1-4 months
